@@ -6,14 +6,15 @@ DUE DATE: 11:59 p.m., Friday, March 11th, 2016.
 ## Assignment Description
 
 For this  INDIVIDUAL assignment (no groups allowed) you will implement a *carry lookahead adder* as described in [cla.pdf](http://rpi-csci-2500-2016-spring.github.io/slides/pdf/cla.pdf).
-This adder improves upon the partial adder that you implemented in [Lab 06](http://rpi-csci-2500-2016-spring.github.io/lab/2016/03/09/lab06.html).  In that lab you constructed a 4-bit [ripple carry adder](https://en.wikipedia.org/wiki/Adder_(electronics)#Ripple-carry_adder).  Now you must build a 64-bit carry lookahead adder.  This can be achieved by building a "hierarchy" of progressively larger groups, sections, etc.  See the PDF.  Also, additional details may be found starting on page B-38 in your text book.
+This adder improves upon the partial adder that you implemented in [Lab 06](http://rpi-csci-2500-2016-spring.github.io/lab/2016/03/09/lab06.html).  In that lab you constructed a 4-bit [ripple carry adder](https://en.wikipedia.org/wiki/Adder_(electronics)#Ripple-carry_adder).  Now you must build a 64-bit carry lookahead adder.  This can be achieved by building a "hierarchy" of progressively larger groups, sections, etc.  See the PDF for more information.  Also, additional details may be found starting on page B-38 in your text book.
 
 ## Grading Criteria
 
 * Correctness: 85%
-  - Print out the matrix correctly.
-  - Computes matrix transpose correctly.
-  - Computes matrix multiplication correctly.
+  - Compute sum<sub>i<sub>, a<sub>i<sub>, b<sub>i<sub>, and c<sub>i<sub> correctly
+  - Compute gg, gp, and gc correctly
+  - Compute sg, sp, and sc correctly
+  - Print out the correctly computed sum
 * Documentation/Comments: 15% (i.e., liberal use of comments so we can
   understand your program).
 
