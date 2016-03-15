@@ -1,7 +1,7 @@
 # Assignment 4 - YOUR NAME HERE
 Comp Org assignment 4
 
-DUE DATE: 11:59 p.m., Friday, March 11th, 2016.
+DUE DATE: 11:59 p.m., Wednesday, March 30th, 2016.
 
 ## Assignment Description
 
@@ -16,7 +16,7 @@ This adder improves upon the partial adder that you implemented in [Lab 06](http
   - Compute sg<sub>i</sub>, sp<sub>i</sub>, and sc<sub>i</sub> correctly
   - Print out the correctly computed sum
 * Documentation/Comments: 15% (i.e., liberal use of comments so we can
-  understand your program).
+  understand your program), coherent code organization.
 
 Excuses  involving a  lack  of  understanding of  Github  will not  be
 tolerated and  will result in a  20 point penalty in  addition to late
