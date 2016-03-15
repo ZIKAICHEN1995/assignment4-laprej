@@ -11,9 +11,9 @@ This adder improves upon the partial adder that you implemented in [Lab 06](http
 ## Grading Criteria
 
 * Correctness: 85%
-  - Compute sum<sub>i<sub>, a<sub>i<sub>, b<sub>i<sub>, and c<sub>i<sub> correctly
-  - Compute gg, gp, and gc correctly
-  - Compute sg, sp, and sc correctly
+  - Compute sum<sub>i</sub>, a<sub>i</sub>, b<sub>i</sub>, and c<sub>i</sub> correctly
+  - Compute gg<sub>i</sub>, gp<sub>i</sub>, and gc<sub>i</sub> correctly
+  - Compute sg<sub>i</sub>, sp<sub>i</sub>, and sc<sub>i</sub> correctly
   - Print out the correctly computed sum
 * Documentation/Comments: 15% (i.e., liberal use of comments so we can
   understand your program).
